@@ -1,0 +1,20 @@
+{
+    "services" : {
+        "bath" : {
+            "name" : "bath",
+            "price" : 25.0
+        },
+        "massage" : {
+            "name" : "massage",
+            "price" : 15.0
+        },
+        "walk" : {
+            "name" : "walk",
+            "price" : 10.0
+        },
+        "play" : {
+            "name" : "play",
+            "price" : 20.0
+        }
+    }
+}
